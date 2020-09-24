@@ -1,0 +1,8 @@
+fudan/se/akasaka/asehw01/entity/Student.class
+fudan/se/akasaka/asehw01/util/Response.class
+fudan/se/akasaka/asehw01/controller/StudentController.class
+fudan/se/akasaka/asehw01/AseHw01Application.class
+fudan/se/akasaka/asehw01/util/JsonUtils.class
+fudan/se/akasaka/asehw01/service/StudentService.class
+fudan/se/akasaka/asehw01/repository/StudentRepository.class
+fudan/se/akasaka/asehw01/service/Impl/StudentServiceImpl.class
